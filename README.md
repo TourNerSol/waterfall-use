@@ -8,7 +8,6 @@
   ![img-alt](http://s17.mogucdn.com/p1/160621/idid_ifrtemjrmi2dsojuhezdambqhayde_423x648.jpg)<br/><br/>
 
 2. **图墙瀑布流（数据来源搜索）**<br/>
-3. 
   * `pc : 搜索关键词【大促pc瀑布流】`<br/>
   ![img-alt](http://s17.mogucdn.com/p1/160621/idid_ifrwinrtgvsdqojuhezdambqhayde_420x626.jpg)<br/>
   * `mob : 搜索关键词【大促瀑布流】`<br/>
