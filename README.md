@@ -7,11 +7,11 @@
   * `mob : 搜索关键词【616大促瀑布流】`<br/>
   ![img-alt](http://s17.mogucdn.com/p1/160621/idid_ifrtemjrmi2dsojuhezdambqhayde_423x648.jpg)<br/>
 
- **使用方法**
+ **使用方法**<br/>
   *点击编辑数据，如下图所示：*<br>
  ![img-alt](http://s17.mogucdn.com/p1/160701/idid_ifrwimjrmu4gkyzxhezdambqhayde_1137x191.png)<br/>
-  *勾选大促：代表为大促已经开始，模块显示为大促开始状态的样式；否则为预热状态。*
-  *导入：点击导入则去麦田创建资源位数据。*
+  *勾选大促：代表为大促已经开始，模块显示为大促开始状态的样式；否则为预热状态。*<br/>
+  *导入：点击导入则去麦田创建资源位数据。*<br/>
 
 2. **图墙瀑布流（数据来源搜索）**<br/>
   * `pc : 搜索关键词【大促pc瀑布流】`<br/>
